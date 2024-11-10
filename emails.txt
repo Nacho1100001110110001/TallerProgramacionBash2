@@ -1,0 +1,6 @@
+correo_valido@example.com
+otro.correo_valido@dominio.net
+ejemplo@otro.com
+usuario123@ejemplo.org
+aaaaaaaaaa@
+sin_arroba.com
